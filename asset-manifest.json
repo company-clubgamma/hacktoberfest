@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/hacktoberfest/static/css/main.5f361e03.chunk.css",
+    "main.js": "/hacktoberfest/static/js/main.a8686292.chunk.js",
+    "main.js.map": "/hacktoberfest/static/js/main.a8686292.chunk.js.map",
+    "runtime-main.js": "/hacktoberfest/static/js/runtime-main.719f4b07.js",
+    "runtime-main.js.map": "/hacktoberfest/static/js/runtime-main.719f4b07.js.map",
+    "static/js/2.c61b6928.chunk.js": "/hacktoberfest/static/js/2.c61b6928.chunk.js",
+    "static/js/2.c61b6928.chunk.js.map": "/hacktoberfest/static/js/2.c61b6928.chunk.js.map",
+    "index.html": "/hacktoberfest/index.html",
+    "precache-manifest.2be01bca33b5553962402bc0b7040e79.js": "/hacktoberfest/precache-manifest.2be01bca33b5553962402bc0b7040e79.js",
+    "service-worker.js": "/hacktoberfest/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/hacktoberfest/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.c61b6928.chunk.js.LICENSE.txt": "/hacktoberfest/static/js/2.c61b6928.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/hacktoberfest/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.719f4b07.js",
+    "static/js/2.c61b6928.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.a8686292.chunk.js"
+  ]
+}
